@@ -3,7 +3,9 @@
 Generation of Padovan Sequence:
 
 There can be two ways to generate the Padovan Sequence:
+
 1.When the number of terms are provided by the user.
+
 2.When the last term of the sequence is provided by the user, that is the number limit is provided.
 
 
